@@ -16,6 +16,10 @@ I will be working on a bot for maplestory written in python that is used to play
 - Eliteboss killing
 - Eliteboss box opener
 - GUI
+- Lie dectector detection
+- Whiteroom check
+- player state recognition
+- auto loot rotation
 
 
 # Reasoning?
