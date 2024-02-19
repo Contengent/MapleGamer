@@ -1,11 +1,8 @@
 # MapleGamer
 I will be working on a bot for maplestory written in python that is used to play the game based off of a given routine created in an csv file.
 
-# Current features:
-- none, I'm going to sleep after I upload all of this.
-
 # Priority features of the bot:
-- Rotating through given routine
+- ~~Rotating through given routine~~
 - Automatic movement to certain cordinates
 - Auto buffing and auto pet feeding
 - Discord notifs of events (rune, players, etc.)
