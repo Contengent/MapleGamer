@@ -4,11 +4,11 @@ All current features will be crossed out from the lists below, they are not in a
 
 # Priority features of the bot:
 - ~~Rotating through given routine~~
-- Automatic movement to certain cordinates
+- Automatic movement to specific cordinates
 - Auto buffing and auto pet feeding
-- Discord notifs of events (rune, players, etc.)
 
 # Future features:
+- Discord notifs of events (rune, players, etc.)
 - Solving runes by sending discord messages
 - Runesolver (Every type of rune)
 - Eliteboss killing
@@ -19,6 +19,12 @@ All current features will be crossed out from the lists below, they are not in a
 - player state recognition
 - auto loot rotation
 
+# End goal (in order probably)
+- Automating dailies/weeklies
+- Automate level 30->200
+- Auto bossing
+- Farming AI
+- To have Nexon re-write all of maplestory, but better
 
 # Reasoning?
 The reasons I want to create this bot is because I am struggling to use bots made by other people. They are frustratingly hard to debug since I am not familiar with all the innerworkings of their bot, and no matter how hard I try, I never seem to be able to fully understand it all because of how un-nessecarily large the codebases are.
