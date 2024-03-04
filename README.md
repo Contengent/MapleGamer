@@ -4,7 +4,7 @@ All current features will be crossed out from the lists below, they are not in a
 
 # Priority features of the bot:
 - ~~Rotating through given routine~~
-- Automatic movement to specific cordinates
+- ~~Automatic movement to specific cordinates~~
 - Auto buffing and auto pet feeding
 
 # Future features:
