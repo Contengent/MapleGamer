@@ -27,4 +27,4 @@ All current features will be crossed out from the lists below, they are not in a
 - To have Nexon re-write all of maplestory, but better
 
 # Reasoning?
-Because my github has nothing but "rule34 ranker" and it's still an incomplete repository
+Fun, practice, also because my github is dead as flip
